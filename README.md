@@ -6,7 +6,8 @@ Os bugs são inevitáveis no desenvolvimento de um produto. Por isso, existe, di
 
 A desculpa de não se testar o software, é que teste custa caro, mas Pressman já apresentou em seu Livro de Engenharia de Software que o custo do defeito é progressivo, ou seja, encontrar o defeito na fase de engenharia de requisitos custa 1 enquanto encontrar o defeito durante a fase de produção custa 100 vezes mais, então utilizar o teste, reduz custo e não aumenta;
 
-<img src="C:\Users\Thalysson\Pictures\custo de um bug.png" alt="custo de um bug" style="zoom: 80%;" />
+![custo de um bug](https://user-images.githubusercontent.com/42422817/153314646-926d3cf9-67f1-4c83-9327-2549c11fb285.png)
+
 
 
 
@@ -35,19 +36,13 @@ A desculpa de não se testar o software, é que teste custa caro, mas Pressman j
 
 
 
-<img src="C:\Users\Thalysson\Pictures\processo de teste.png" alt="processo de teste" style="zoom: 67%;" />
+![processo de teste](https://user-images.githubusercontent.com/42422817/153314828-938884fb-f612-44e5-9888-5647a0cc7974.png)
+
+![Ferramentas de teste](https://user-images.githubusercontent.com/42422817/153314841-5e17688a-6c93-4d2a-b618-7836e586d613.png)
+
+![visão geral de teste](https://user-images.githubusercontent.com/42422817/153314862-93ad9741-9595-419b-9627-c25f701b68d3.png)
 
 
-
-
-
-<img src="C:\Users\Thalysson\Pictures\Ferramentas de teste.png" alt="Ferramentas de teste" style="zoom: 67%;" />
-
-
-
-
-
-<img src="C:\Users\Thalysson\Pictures\visão geral de teste.png" alt="visão geral de teste" style="zoom: 67%;" />
 
 
 
