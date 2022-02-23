@@ -1,4 +1,4 @@
-## QUALITY ASSUTANCE (QA)
+## QUALITY ASSURANCE (QA)
 
 Teste de software é um processo que faz parte de vida do software, e tem como principal objetivo avaliar a qualidade do software e reduzir o risco de falha no software em operação;
 
